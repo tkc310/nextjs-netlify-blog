@@ -1,19 +1,15 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://tkc310.com",
+  "site_title": "tkc310_log",
+  "site_description": "プログラミングの学習ログなど",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "業務自動化",
+    "業務効率化",
+    "業務改善",
+    "業務ハック",
+    "業務Hack"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@tkc310_orz",
+  "github_account": "tkc310"
 }
